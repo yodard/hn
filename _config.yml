@@ -1,6 +1,6 @@
 title: huda nasser
 email: hudanasser@outlook.com
-baseurl: https://yodard.github.io"
+baseurl: "https://yodard.github.io"
 url: "/hn"
 sass:
   style: compact
