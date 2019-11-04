@@ -2,5 +2,20 @@ title: huda nasser
 email: hudanasser@outlook.com
 baseurl: "https://yodard.github.io"
 url: "/hn"
+
+collections:
+  illustrations:
+    output: true
+    permalink: /:collection/:path/
+     
+  photography:
+    output: true
+    permalink: /:collection/:path/
+      
+  design:
+    output: true
+    permalink: /:collection/:path/
+      
+
 sass:
-  style: compact
+  style: compact # possible values: nested expanded compact compressed
