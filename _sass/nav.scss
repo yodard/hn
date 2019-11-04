@@ -1,9 +1,3 @@
-figure.logo-icon { 
-    width: 5%;
-    position: absolute;
-    margin: -3pt;
-}
-
 .main-nav {
 background-color: $base-color;
 color:white;
@@ -32,4 +26,10 @@ margin: 50px;
 padding: 0;
 display: inline;
 list-style:none;
+}
+
+.logo-icon { 
+    width: 5%;
+    position: absolute;
+    margin: -3pt;
 }
